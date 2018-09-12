@@ -1,0 +1,32 @@
+0 4
+4 1
+9
+7 2 1
+9 7 1
+9 6 1
+13 1 7
+13 2 8
+10 4 5
+15 1 1
+12 9 7
+16 11 3
+{
+Use arrows to move.
+To open mission window, press C.
+interactions on the map , press Z.
+-
+They provide knowledge
+for generations
+}
+{
+2 3
+}
+{
+Well done, you made it!
+-
+You can take the key now.
+To do it press Z.
+}
+{
+-1 -1
+}
